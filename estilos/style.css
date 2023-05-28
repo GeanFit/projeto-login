@@ -35,7 +35,7 @@ section#login {
 
     background-color: white;
     width: 250px;
-    height: 550px;
+    height: 650px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.400);
 }
@@ -45,7 +45,7 @@ section#login > div#imagem {
     background: rgb(141, 96, 66) url(../imagens/predio.jpg) no-repeat;
     background-size: cover;
     background-position: center bottom;
-    height: 250px;
+    height: 300px;
 }
 
 section#login > div#formulario {
