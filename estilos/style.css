@@ -97,10 +97,6 @@ div.campo > input {
     transform: translateY(-7.2px);
 }
 
-div.campo > input:focus-within {
-    background-color: white;
-}
-
 div.campo input{
     outline: none;
 }
